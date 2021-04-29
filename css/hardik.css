@@ -1,0 +1,38 @@
+  
+        .Hardik{
+            color: aquamarine;
+            text-align: center;
+            border: 4px outset grey;
+            width: 250px;
+            height: 30px;
+            line-height: 30px;
+            background-color: grey;
+     }
+
+     .Hardik_img{
+         float: left;
+     }
+     .p1{
+         margin-left: 10px;
+         text-align: justify;
+         color: #000;
+         font-size: large;
+         font-family: sans-serif;
+     }
+
+     .p_domestic{
+         text-align: justify;
+         color: #000;
+         font-size: large;
+         font-family: sans-serif;
+     }
+      .p3{
+         text-align: justify;
+         color: #000;
+         font-size: large;
+         font-family: sans-serif;
+      }
+      p{
+          font-size: large;
+          font-family: sans-serif;
+      }
